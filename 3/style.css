@@ -1,0 +1,26 @@
+button {
+    background-color: #8B008B;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 4px;
+    margin: 20px;
+}
+
+
+button:active {
+    background-color: #8B008B;
+}
+body {
+    text-align: center;
+    background-color: #DC143C;
+}
+h1 {
+    background-color: #8B008B;
+    color: rgb(252, 252, 252);
+    padding: 20px;
+    font-size: 30px;
+}
